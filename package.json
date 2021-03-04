@@ -1,0 +1,25 @@
+{
+  "name": "mini-source-code",
+  "version": "1.0.0",
+  "description": "简版的源码实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaofan9/mini-source-code.git"
+  },
+  "keywords": [
+    "mini-source-code"
+  ],
+  "author": "sifan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaofan9/mini-source-code/issues"
+  },
+  "homepage": "https://github.com/xiaofan9/mini-source-code#readme",
+  "dependencies": {
+    "koa2": "^2.0.0-alpha.7"
+  }
+}
